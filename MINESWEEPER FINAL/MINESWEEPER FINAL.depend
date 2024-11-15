@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1671469053 source:c:\users\stefa\desktop\teme pc\minesweeper final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"minesweeper.h"
+
+1671462150 c:\users\stefa\desktop\teme pc\minesweeper final\minesweeper.h
+
+1672314590 source:c:\users\stefa\desktop\teme pc\minesweeper final\minesweeper.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"minesweeper.h"
+
